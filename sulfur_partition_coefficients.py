@@ -3,7 +3,7 @@ from scipy.stats import truncnorm
 R = 8.3145
 # T0 = 1400  # in Celsius
 # TK0 = T0 + 273.15  # in kelvin
-DELV_RXNI = 12.68-22.1
+DELV_RXNI = 13.35-22.1
 P0_RXNI = 200
 T0_RXNI = 1000
 
